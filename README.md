@@ -27,7 +27,7 @@ Master the art of music with an engaging hero section.
 
 ### 📚 Featured Courses  
 Showcasing different courses such as Guitar, Piano, Vocal Training, and Music Production.  
-![Homepage](.public/courses/edm.jpg)  
+![Course](.public/courses/edm.jpg)  
 
 ---
 
