@@ -21,19 +21,19 @@ The website provides users with access to music courses, instructors, and a smoo
 
 ### 🏠 Homepage (Hero Section)  
 Master the art of music with an engaging hero section.  
-![Homepage Hero](./screenshots/homepage.png)  
+![Homepage Hero](./courses/blues.jpg)  
 
 ---
 
 ### 📚 Featured Courses  
 Showcasing different courses such as Guitar, Piano, Vocal Training, and Music Production.  
-![Courses Section](./screenshots/courses.png)  
+![Courses Section](./courses/edm.jpg)  
 
 ---
 
 ### 👨‍🏫 Meet Our Instructors  
 Discover the talented professionals who guide students on their musical journey.  
-![Instructors Section](./screenshots/instructors.png)  
+![Instructors Section](./courses/jazz.jpg)  
 
 ---
 
